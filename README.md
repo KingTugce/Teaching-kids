@@ -1,2 +1,2 @@
-# teaching lectures for kids
+# teaching coding to kids
 Examples
